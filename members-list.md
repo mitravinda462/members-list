@@ -402,3 +402,9 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: K M Mitravinda <br/>
+**SRN**: PES1201801872    <br/>
+**Link to profile**: [mitravinda462](https://github.com/mitravinda462)<br/>
+**About me**:
+On a journey of exploration of the field of CS.Dodging bugs XD.Towards the sky. #I'llGetThere
